@@ -15,7 +15,7 @@ public class Hero {
         if (moving != null) {
             moving.move(move);
         } else {
-            System.out.println("Moving strategy is not set!");
+            System.out.println("Moving strategy is not set!"); //test
         }
     }
 }

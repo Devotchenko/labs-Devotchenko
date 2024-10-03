@@ -44,7 +44,7 @@ public class Main {
             }
         }
 
-        scanner.close();
+        scanner.close(); //test
     }
 }
 
